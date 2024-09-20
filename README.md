@@ -64,7 +64,7 @@ To set up the project, follow these steps:
 
 ## Example
 
-![Result](https://drive.google.com/file/d/1qyJKGrKmM9rNpkQsa_HVZwQ4Lh4MWUrR/view?usp=sharing) 
+![Result](https://github.com/divyanshgawri/Image_recognition/blob/main/output.png) 
 
 *Display of original image and predicted class image with confidence percentage.*
 
