@@ -1,4 +1,4 @@
-***Face Recognition Project**
+**Face Recognition Project**
 
 Overview
 This project is a **Face Recognition Application** that employs deep learning techniques to detect and recognize faces in images. The application utilizes a Convolutional Neural Network (CNN) model trained on a dataset of various individuals. It processes images to identify faces and matches them against known identities, providing confidence scores for each prediction.
