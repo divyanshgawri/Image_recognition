@@ -16,7 +16,7 @@ With the increasing use of digital images, the need for effective face recogniti
    - Handles cases where no faces are detected and returns the original image for further analysis.
 
 2. **Face Recognition**:
-   - Utilizes a pre-trained CNN model to classify the cropped face images.
+   - Utilizes a Self-Made CNN model to classify the cropped face images.
    - Predicts the identity of the individual by comparing the features extracted from the image against those in the training dataset.
 
 3. **Confidence Scoring**:
@@ -64,7 +64,7 @@ To set up the project, follow these steps:
 
 ## Example
 
-![Original Image](path_to_image) ![Predicted Class Image](path_to_image)
+![Result](https://drive.google.com/file/d/1qyJKGrKmM9rNpkQsa_HVZwQ4Lh4MWUrR/view?usp=sharing) 
 
 *Display of original image and predicted class image with confidence percentage.*
 
@@ -72,9 +72,6 @@ To set up the project, follow these steps:
 
 If you'd like to contribute to this project, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -83,8 +80,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or feedback, feel free to reach out to me at [your-email@example.com].
-
----
-
-This expanded README provides a comprehensive overview of your project, including the problem it addresses, how it works, and its key features. Feel free to add any additional sections or details that you think might be relevant!
+For any inquiries or feedback, feel free to reach out to me at [gawridishu@gmail.com].
